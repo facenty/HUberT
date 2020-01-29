@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "761441158039",
+    "firebase_url": "https://hyper-uber-transport.firebaseio.com",
+    "project_id": "hyper-uber-transport",
+    "storage_bucket": "hyper-uber-transport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761441158039:android:c9f3925035953caad93ad2",
+        "android_client_info": {
+          "package_name": "com.hyper.ubertransport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761441158039-b4jilo69s96nj0vllotdv1t3i9ape35q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hyper.ubertransport",
+            "certificate_hash": "b9a7b56f78b6f228f528dfafcd587f4f0c902f34"
+          }
+        },
+        {
+          "client_id": "761441158039-su70tit8mavjujolm6pqk13ltu4cs9qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfuOz841cRjYFKI5Yr1QVQiLsuW_M8nHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761441158039-su70tit8mavjujolm6pqk13ltu4cs9qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        default
+    </string>
+m
+    <string name="google_places_key" templateMergeStrategy="preserve" translatable="false">
+        default
+    </string>
+</resources>
